@@ -23,6 +23,6 @@ Uygulamanın kurulumu bittikten sonra "ResQuaRat.exe" isimli dosyaya çift tıkl
 
 **Adım-6** : Filmler hakkındaki yorumlara yaptığınız değerlendirme işlemi bitince Filmlerin listelendiği pencere üzerinde bulunan "Verileri Kaydet" butonuna basınız. (Herhangi bir değerlendirme yapmadan Kaydetme işlemine geçerseniz uygulama, verisetine bütün yorum değerlendirmeleriniz için "Null" değer yazacaktır.)
 
-**Adım-7** : Bu aşamada uygulama sizden "Verileri Var Olan Dosyaya Ekle" ve "Yeni Bir Dosya Oluştur" arasında bir seçim yapmanızı isteyecek. Seçimini yapın ve kayıt işlemini sonlandırın. (Daha önce veri kaydetme işlemi yapmadıysanız "Verileri Var Olan Dosyaya Ekle" butonunun aktif olmadığını göreceksiniz. İlk veri kaydetme işleminde "Yeni Bir Dosya Oluştur" butonuna tıklamalısınız.)
+**Adım-7** : Bu aşamada uygulama sizden "Verileri Var Olan Dosyaya Ekle" ve "Yeni Bir Dosya Oluştur" arasında bir seçim yapmanızı isteyecek. Seçiminizi yapın ve kayıt işlemini sonlandırın. (Daha önce veri kaydetme işlemi yapmadıysanız "Verileri Var Olan Dosyaya Ekle" butonunun aktif olmadığını göreceksiniz. İlk veri kaydetme işleminde "Yeni Bir Dosya Oluştur" butonuna tıklamalısınız.)
 
 **SON** : Veri kaydetme işlemini tamamladıktan sonra uygulamanın kurulu olduğu klasör içerisinde "data.csv" isimli bir dosya oluşacaktır. Bu sizin veri setinizdir.
