@@ -21,7 +21,7 @@ Uygulamanın kurulumu bittikten sonra "ResQuaRat.exe" isimli dosyaya çift tıkl
 
 **Adım-5** : Detay penceresinde seçtiğiniz filme yapılan yorumlar ve yorumu yapan kişinin verdiği puanı göreceksiniz. Bu aşamada istediğiniz yorumun üstüne tıklayarak ekranın sağ alt kısmındaki "Faydalı" ya da "Faydalı Değil" seçeneklerinden birine tıklayınız arından "Yorumu Değerlendir" butonuna tıklayınız. (Herhangi bir seçim yapmadan "Yorumu Değerlendir" butonuna basarsanız uygulama uyarı verecektir.)
 
-**Adım-6** : Filmler hakkındaki yorumlara yapıtğınız değerlendirme işlemi bitince Filmlerin listelendiği pencere üzerinde bulunan "Verileri Kaydet" butonuna basınız. (Herhangi bir değerlendirme yapmadan Kaydetme işlemine geçerseniz uygulama, verisetine bütün yorumların değerlendirmesi için "Null" değer yazacaktır.)
+**Adım-6** : Filmler hakkındaki yorumlara yaptığınız değerlendirme işlemi bitince Filmlerin listelendiği pencere üzerinde bulunan "Verileri Kaydet" butonuna basınız. (Herhangi bir değerlendirme yapmadan Kaydetme işlemine geçerseniz uygulama, verisetine bütün yorum değerlendirmeleriniz için "Null" değer yazacaktır.)
 
 **Adım-7** : Bu aşamada uygulama sizden "Verileri Var Olan Dosyaya Ekle" ve "Yeni Bir Dosya Oluştur" arasında bir seçim yapmanızı isteyecek. (Daya önce veri kaydetme işlemi yapmadıysanız "Verileri Var Olan Dosyaya Ekle" butonunun aktif olmadığını göreceksiniz. İlk veri kaydetme işleminde "Yeni Bir Dosya Oluştur" butonuna tıklamalısınız.)
 
