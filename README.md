@@ -1,7 +1,7 @@
 # ResQuaRat Software Kurulum:
 Aşağıdaki linkten uygulamanın setup dosyasını indirip cihazınıza kurabilirsiniz.
 
-https://drive.google.com/file/d/1-PwwCLILasym0H7jefkxeiVAEZE7pCr4/view
+* *https://drive.google.com/file/d/1-PwwCLILasym0H7jefkxeiVAEZE7pCr4/view* *
 
 Uygulamanın kurulumu bittikten sonra "ResQuaRat.exe" isimli dosyaya çift tıklayarak programı çalıştırınız.
 
