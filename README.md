@@ -6,11 +6,11 @@ Aşağıdaki linkten uygulamanın setup dosyasını indirip cihazınıza kurabil
 Uygulamanın kurulumu bittikten sonra "ResQuaRat.exe" isimli dosyaya çift tıklayarak programı çalıştırınız.
 
 # NOTLAR:
-**ÖNEMLİ NOT - Programın kurulumunu yaparken Program Files içine kurmayın, veri kaydetme işleminde sorun yaşayabilirsiniz. Kurulum ekranında "Gözat" tuşuna basarak masaüstüne kurulumu gerçekleştiriniz**
+**ÖNEMLİ NOT : Programın kurulumunu yaparken Program Files içine kurmayın, veri kaydetme işleminde sorun yaşayabilirsiniz. Kurulum ekranında "Gözat" tuşuna basarak masaüstüne kurulumu gerçekleştiriniz**
 
-2- Uygulama kurulurken çalışması için gerekli olan kütüphaneleri de beraberinde kurulum klasörüne yükleyecek ve referans olarak onları kullanacaktır. Sizin ayrıyetten herhangi bir kütüphane ya da program kurulumu yapmanıza gerek yoktur.
+1- Uygulama kurulurken çalışması için gerekli olan kütüphaneleri de beraberinde kurulum klasörüne yükleyecek ve referans olarak onları kullanacaktır. Sizin ayrıyetten herhangi bir kütüphane ya da program kurulumu yapmanıza gerek yoktur.
 
-3- Uygulama "Letterboxd.com" sitesinden verileri çektiğinden dolayı programın düzgün çalışabilmesi için cihazınızın internete bağlı durumda olması gerekmektedir.
+2- Uygulama "Letterboxd.com" sitesinden verileri çektiğinden dolayı programın düzgün çalışabilmesi için cihazınızın internete bağlı durumda olması gerekmektedir.
 
 # Kullanım:
 **Adım-1** : Programı çalıştırdıktan sonra sizden kullanıcı adı isteyecektir, herhangi bir isim girip "Giriş" butonuna basınız ve gelen doğrulama ekranını onaylayınız. (Eğer boş bırakırsanız bir sonraki adıma geçemezsiniz.)
