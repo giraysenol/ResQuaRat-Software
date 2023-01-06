@@ -6,7 +6,7 @@ Aşağıdaki linkten uygulamanın setup dosyasını indirip cihazınıza kurabil
 Uygulamanın kurulumu bittikten sonra "ResQuaRat.exe" isimli dosyaya çift tıklayarak programı çalıştırınız.
 
 # NOTLAR:
-**ÖNEMLİ NOT : Programın kurulumunu yaparken Program Files içine kurmayın, veri kaydetme işleminde sorun yaşayabilirsiniz. Kurulum ekranında "Gözat" tuşuna basarak masaüstüne kurulumu gerçekleştiriniz**
+**ÖNEMLİ NOT : Programın kurulumunu yaparken Program Files içine kurmayın, veri kaydetme işleminde sorun yaşayabilirsiniz. Kurulum ekranında "Gözat" tuşuna basarak masaüstüne kurulumu gerçekleştiriniz.**
 
 1- Uygulama kurulurken çalışması için gerekli olan kütüphaneleri de beraberinde kurulum klasörüne yükleyecek ve referans olarak onları kullanacaktır. Sizin ayrıyetten herhangi bir kütüphane ya da program kurulumu yapmanıza gerek yoktur.
 
